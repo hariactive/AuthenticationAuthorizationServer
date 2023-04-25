@@ -1,0 +1,3 @@
+# authorization server
+
+# resource server
